@@ -1,0 +1,14 @@
+C:\Users\irene\Documents\chula\Year2\OOP\assignment6\HW6_61421037\bin\Debug\HW6_61421037.exe.config
+C:\Users\irene\Documents\chula\Year2\OOP\assignment6\HW6_61421037\bin\Debug\HW6_61421037.exe
+C:\Users\irene\Documents\chula\Year2\OOP\assignment6\HW6_61421037\bin\Debug\HW6_61421037.pdb
+C:\Users\irene\Documents\chula\Year2\OOP\assignment6\HW6_61421037\obj\Debug\HW6_61421037.csprojAssemblyReference.cache
+C:\Users\irene\Documents\chula\Year2\OOP\assignment6\HW6_61421037\obj\Debug\HW6_61421037.csproj.CoreCompileInputs.cache
+C:\Users\irene\Documents\chula\Year2\OOP\assignment6\HW6_61421037\obj\Debug\HW6_61421037.exe
+C:\Users\irene\Documents\chula\Year2\OOP\assignment6\HW6_61421037\obj\Debug\HW6_61421037.pdb
+D:\University\Work\YEAR2\YEAR2-1\OOP\assignment6\HW6_61421037\bin\Debug\HW6_61421037.exe.config
+D:\University\Work\YEAR2\YEAR2-1\OOP\assignment6\HW6_61421037\bin\Debug\HW6_61421037.exe
+D:\University\Work\YEAR2\YEAR2-1\OOP\assignment6\HW6_61421037\bin\Debug\HW6_61421037.pdb
+D:\University\Work\YEAR2\YEAR2-1\OOP\assignment6\HW6_61421037\obj\Debug\HW6_61421037.csprojAssemblyReference.cache
+D:\University\Work\YEAR2\YEAR2-1\OOP\assignment6\HW6_61421037\obj\Debug\HW6_61421037.csproj.CoreCompileInputs.cache
+D:\University\Work\YEAR2\YEAR2-1\OOP\assignment6\HW6_61421037\obj\Debug\HW6_61421037.exe
+D:\University\Work\YEAR2\YEAR2-1\OOP\assignment6\HW6_61421037\obj\Debug\HW6_61421037.pdb
